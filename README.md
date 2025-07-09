@@ -30,21 +30,6 @@ Siga os passos abaixo para rodar o projeto localmente.
 - npm ou yarn
 - Git
 
-### Instalação
-
-```bash
-# Clone o repositório
-git clone https://github.com/andredantasti/projeto-react-initial.git
-
-# Acesse a pasta do projeto
-cd projeto-react-initial
-
-# Instale as dependências
-npm install
-# ou
-yarn
-
-
 ## 🔗 Demo Online
 
 👉 [Clique aqui para ver o projeto funcionando](https://projeto-react-initial.vercel.app/)
@@ -91,6 +76,21 @@ Sinta-se à vontade para abrir issues ou enviar pull requests com melhorias!
 - GitHub - [andredantasti](https://github.com/andredantasti)
 - Frontend Mentor - [@andredantati](https://www.frontendmentor.io/profile/andredantasti)
 - Linkedin - [Andre Dantas](https://www.linkedin.com/in/andre-dantas-84b370366/)
+
+### Instalação
+
+```bash
+# Clone o repositório
+git clone https://github.com/andredantasti/projeto-react-initial.git
+
+# Acesse a pasta do projeto
+cd projeto-react-initial
+
+# Instale as dependências
+npm install
+# ou
+yarn
+
 
 📁 Estrutura do Projeto
 
